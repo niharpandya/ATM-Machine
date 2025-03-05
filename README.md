@@ -45,6 +45,7 @@ Navigate to '...ATM\ATM\atm.client' directory. Install npm packages:
 
 Open Visual Studio Solution
 ```bash
+  Build solution by clicking Build -> Build Solution
   Click the "Start" button. It will automatically launch the web app in Microsoft Edge.
 ```
 
